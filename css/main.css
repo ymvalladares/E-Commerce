@@ -159,15 +159,14 @@ body {
   border-bottom-left-radius: 12px;
 }
 #newsletter .btn {
-  background-color: var(--pink);
   color: #fff;
-  border-color: var(--pink);
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
+  cursor: pointer;
 }
 #newsletter .btn:hover {
-  background-color: #000;
-  border-color: #000;
+  background-color: rgb(112, 17, 206);
+  border-color: rgb(112, 17, 206);
 }
 
 /* footer */
